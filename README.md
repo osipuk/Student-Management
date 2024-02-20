@@ -53,9 +53,6 @@ When the configuration is complete, just type in the terminal "mvn spring-boot: 
 
 http://localhost:8080/
 
-## Demonstration
-
-https://java-spring-course.herokuapp.com/ <br>
 
 - Login
     - Username: admin
