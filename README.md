@@ -28,12 +28,9 @@ Spring much lighter! :)
 - Bootstrap
 - MySql
 
-## Installation
 
-```
-$ git clone https://github.com/danilomeneghel/spring-course.git
 
-$ cd spring-course
+
 
 ```
 
@@ -68,23 +65,3 @@ https://java-spring-course.herokuapp.com/ <br>
 
 User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 
-## Screenshots
-
-![Screenshots](screenshots/screenshot01.png)<br><br>
-![Screenshots](screenshots/screenshot02.png)<br><br>
-![Screenshots](screenshots/screenshot03.png)<br><br>
-![Screenshots](screenshots/screenshot04.png)<br><br>
-![Screenshots](screenshots/screenshot05.png)<br><br>
-![Screenshots](screenshots/screenshot06.png)<br><br>
-![Screenshots](screenshots/screenshot07.png)<br><br>
-![Screenshots](screenshots/screenshot08.png)<br><br>
-
-## Model ER
-
-![Screenshots](model_er.png)<br><br>
-
-
-Developed by<br>
-Danilo Meneghel<br>
-danilo.meneghel@gmail.com<br>
-http://danilomeneghel.github.io/<br>
